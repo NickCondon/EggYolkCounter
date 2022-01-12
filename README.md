@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/447045677.svg)](https://zenodo.org/badge/latestdoi/447045677)
+
 # Egg Yolk Counter Macro
 This macro allows for user-assisted counting of egg-yolks within a single large egg-sac.
 
